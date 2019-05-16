@@ -58,11 +58,11 @@
 
   - 没有内容发生变化
 
-  - ![01](C:\Users\Minyon\Desktop\git_use\01.PNG)
+  - ![01](https://github.com/Minyonlew/TheUseOfGit/blob/master/01.PNG)
 
   - 有内容发生变化
 
-  - ![02](C:\Users\Minyon\Desktop\git_use\02.PNG)
+  - ![02](https://github.com/Minyonlew/TheUseOfGit/blob/master/02.PNG)
 
 - 查看修改内容
 
@@ -70,6 +70,6 @@
     git diff
     ```
 
-  - ![03](C:\Users\Minyon\Desktop\git_use\03.PNG)
+  - ![03](https://github.com/Minyonlew/TheUseOfGit/blob/master/03.PNG)
 
   - 
