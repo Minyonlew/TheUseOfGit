@@ -44,6 +44,14 @@
     - git push origin master
     ```
 
+- 将已上传到Github的文件删除
+
+  - ```
+    git rm -r --cached flashview                   //--cached不会把本地的flashview文件夹删除
+    git commit -m '我删除了flashview文件夹'         //单引号里为Commit时需要提交的说明
+    git push -u origin master                 //若需要对其他分支进行操作，则把master 										    换为对应分支，如:git push -u origin dev
+    ```
+
     
 
 #### 二、常用命令及其用法
