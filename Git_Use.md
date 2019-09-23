@@ -38,7 +38,7 @@
   - ```
     （第一次推送）先要pull 下来
     - (正常) git pull origin master
-    - (失败) git pull origin master -- allow-unrelated-histories
+    - (失败) git pull origin master --allow-unrelated-histories
     ```
 
   - ```
